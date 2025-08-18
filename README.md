@@ -17,6 +17,7 @@ To deploy this project run
 ```bash
   conda env create -f environment.yml
   conda activate y5train310
+  git clone https://github.com/ultralytics/yolov5.git
 ```
 
 
