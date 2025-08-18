@@ -18,6 +18,7 @@ To deploy this project run
   conda env create -f environment.yml
   conda activate y5train310
 ```
+Clone Yolo v5 
 
 ```bash
   git clone https://github.com/ultralytics/yolov5.git
